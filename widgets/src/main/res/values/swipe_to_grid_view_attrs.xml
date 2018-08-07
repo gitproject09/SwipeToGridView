@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="SwipeToGridViewLayout">
+        <attr name="swipe_view_padding_vertical" format="dimension" />
+        <attr name="swipe_view_padding_horizontal" format="dimension" />
+
+        <attr name="grid_view_padding_vertical" format="dimension" />
+        <attr name="grid_view_padding_horizontal" format="dimension" />
+
+        <attr name="swipe_view_div_width" format="dimension" />
+        <attr name="grid_view_div_vertical_width" format="dimension" />
+        <attr name="grid_view_div_horizontal_width" format="dimension" />
+
+        <attr name="grid_view_columns" format="integer" />
+
+        <attr name="card_aspect_ratio" format="float" />
+    </declare-styleable>
+
+</resources>
